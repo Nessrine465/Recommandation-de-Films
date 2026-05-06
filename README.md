@@ -1,5 +1,3 @@
----
-
 # Architecture du projet
 
 ```bash
